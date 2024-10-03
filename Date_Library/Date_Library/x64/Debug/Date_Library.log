@@ -1,2 +1,4 @@
 ﻿  Date_Library.cpp
+D:\OneDrive\Programming Advices\GitHub Project\Project_Date_Library\Date_Library\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\OneDrive\Programming Advices\GitHub Project\Project_Date_Library\Date_Library\clsString.h(256,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   Date_Library.vcxproj -> D:\OneDrive\Programming Advices\GitHub Project\Project_Date_Library\Date_Library\x64\Debug\Date_Library.exe

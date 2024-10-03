@@ -130,7 +130,9 @@
     <ClCompile Include="Date_Library.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsChar.h" />
     <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
