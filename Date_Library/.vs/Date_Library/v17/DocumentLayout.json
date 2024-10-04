@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\Date_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:Date_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\Date_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADF7133B-E974-4952-B79C-5FF3AB519318}|Date_Library.vcxproj|solutionrelative:Date_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Date_Library.cpp",
               "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\Date_Library.cpp",
               "RelativeDocumentMoniker": "Date_Library.cpp",
               "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\Date_Library.cpp",
               "RelativeToolTip": "Date_Library.cpp",
-              "ViewState": "AQIAAAQAAAAAAAAAAAArwBYAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T15:13:48.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T15:13:48.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "clsChar.h",
               "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsChar.h",
               "RelativeDocumentMoniker": "clsChar.h",
               "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsChar.h",
               "RelativeToolTip": "clsChar.h",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwDwAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-02T12:15:11.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "clsString.h",
               "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsString.h",
               "RelativeDocumentMoniker": "clsString.h",
               "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsString.h",
               "RelativeToolTip": "clsString.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAXAAAA",
+              "ViewState": "AQIAAHIBAAAAAAAAAAAowJ4BAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-02T12:14:51.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "clsDate.h",
               "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsDate.h",
               "RelativeDocumentMoniker": "clsDate.h",
               "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project_Date_Library\\Date_Library\\clsDate.h",
               "RelativeToolTip": "clsDate.h",
-              "ViewState": "AQIAAAQCAAAAAAAAAAAUwMYBAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-30T16:34:43.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T16:34:43.02Z"
             }
           ]
         }
